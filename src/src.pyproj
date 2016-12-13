@@ -29,7 +29,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="data.csv" />
-    <Content Include="data_visualization.xlsx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>
